@@ -5,8 +5,10 @@
 This project is a Python-based Network Sniffer developed using the Scapy library on Kali Linux. The tool captures and analyzes network packets in real time, providing insights into network traffic, communication protocols, source and destination addresses, ports, and packet payloads.
 
 The project was developed as part of a Cyber Security internship to understand network monitoring, packet analysis, and the fundamentals of network protocols.
+we can gain practical knowledge oof networking by doing this type of projects
 
 ---
+
 
 ## Features
 
@@ -101,5 +103,6 @@ sudo python3 sniffer.py
 ## Author
 
 **Nikhil Reddy**
+
 
 Cyber Security Intern | Computer Science & Engineering Student
