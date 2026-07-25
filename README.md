@@ -92,6 +92,7 @@ sudo python3 sniffer.py
 ## Future Enhancements
 
 * GUI-based dashboard
+* packet auto sniffing with AI
 * Intrusion Detection Features
 * Suspicious Traffic Detection
 * Real-time Traffic Visualization
